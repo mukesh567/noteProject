@@ -25,11 +25,15 @@ Features :
 
 
 Additional features :  (That is optional but created by me)   
+
 **a.**  Login and Signup Features: (Login, Sign up functionality using JWT authentication)  
-    Users can register (signup) and log into their accounts.  
-    Each user has access to their own set of notes.  
+        Users can register (signup) and log into their accounts.  
+        Each user has access to their own set of notes.  
+        
 **b.** Colour palette to select the background of the notes  
+
 **c.**  Redux to maintain the state of the application(Redux toolkit)  
+
 **d.** I have created in both approach for API integration :   
   Thunk Middleware with Redux Toolkit:  
       Utilized Thunk middleware with Redux Toolkit to handle asynchronous logic, such as API calls, within Redux actions.  
