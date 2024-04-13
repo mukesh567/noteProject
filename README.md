@@ -44,7 +44,7 @@ How to run project's (frontend & backend part)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mukesh567/notesApp.git
+   git clone https://github.com/mukesh567/noteProject.git
 
 2.Navigate to the project directory:
     
@@ -60,5 +60,12 @@ How to run project's (frontend & backend part)
      npm run start (For frontend)
      npm run dev (For backend)
 
-      
+    
+## Screenshots
+
+Login page  
+
+
+![Screenshot of a comment on a GitHub issue showing an image.]( https://github.com/mukesh567/noteProject/blob/master/assets/loginsignup.png)
+
 
