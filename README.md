@@ -66,6 +66,31 @@ How to run project's (frontend & backend part)
 Login page  
 
 
-![Screenshot of a comment on a GitHub issue showing an image.]( https://github.com/mukesh567/noteProject/blob/master/assets/loginsignup.png)
+![Screenshot of a comment on a GitHub issue showing an image.]( https://github.com/mukesh567/noteProject/blob/master/assets/loginsignup.png)   
+
+
+Home page  
+
+
+![Screenshot of a comment on a GitHub issue showing an image.]( https://github.com/mukesh567/noteProject/blob/master/assets/homepage.png)   
+
+
+Add Note 
+
+
+![Screenshot of a comment on a GitHub issue showing an image.](https://github.com/mukesh567/noteProject/blob/master/assets/addnote.png)   
+
+
+After adding Note 
+
+
+![Screenshot of a comment on a GitHub issue showing an image.]( https://github.com/mukesh567/noteProject/blob/master/assets/afteradd.png)   
+
+
+
+Mobile Friendly  
+
+
+![Screenshot of a comment on a GitHub issue showing an image.]( https://github.com/mukesh567/noteProject/blob/master/assets/responsive.png)    
 
 
