@@ -5,7 +5,7 @@ A React Project 'Note App' made using various tech.
 Tech used : Reactjs , Nodejs , Expressjs , mongodb , JWT Authentication , Redux toolkit , Bootstrap/css  
 
 Project Demo Video :   
-Plz visit my drive link : https://drive.google.com/file/d/1Q_ohFXaDOVHfV-psuVcUf9SkhHjKdjUa/view?usp=sharing  
+Plz visit my drive link : (https://drive.google.com/file/d/16AFohlZ9vG1TYGYseZ8aXTcnbHaO3vQ-/view?usp=sharing)
 
 
 
