@@ -88,7 +88,13 @@ Add Note
 After adding Note 
 
 
-![Screenshot of a comment on a GitHub issue showing an image.]( https://github.com/mukesh567/noteProject/blob/master/assets/afteradd.png)   
+![Screenshot of a comment on a GitHub issue showing an image.]( https://github.com/mukesh567/noteProject/blob/master/assets/afteradd.png)  
+
+
+Searching Note
+
+
+![Screenshot of a comment on a GitHub issue showing an image.]( https://github.com/mukesh567/noteProject/blob/master/assets/searching.png)  
 
 
 
